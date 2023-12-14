@@ -1,29 +1,24 @@
-# README #
+# JS for everyone
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## 🏃‍♂️ Simple start
 
-### What is this repository for? ###
+1. **`npm run setup`** at the root
+2. **`npm run dev`** at the root
+3. open **`http://localhost:7500/`**
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+OR
 
-### How do I get set up? ###
+1. **`npm install`** at the root
+2. **`npx simple-git-hooks`** at the root
+3. **`npm run dev`** at the root
+4. open **`http://localhost:7500/`**
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## 💡 PS
 
-### Contribution guidelines ###
+The project has a [Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks), [Prettier](https://prettier.io/) and [Eslint](https://eslint.org/) set up, to validate your JS code.
 
-* Writing tests
-* Code review
-* Other guidelines
+## 💡 PPS
 
-### Who do I talk to? ###
+Please, make sure there are no linter errors in your homework!
 
-* Repo owner or admin
-* Other community or team contact
+## 🤞 Good luck

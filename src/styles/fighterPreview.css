@@ -1,0 +1,44 @@
+.fighter-preview___root {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 250px;
+}
+
+.fighter-preview___right {
+  align-items: flex-end;
+}
+
+.fighter-preview___left {
+  align-items: flex-start;
+}
+
+.fighter-preview___root {
+  justify-content: space-between;
+  height: 100%;
+}
+
+.fighter-preview___right .fighter-preview___image{
+  transform: scale(-1, 1);
+}
+
+.fighter-preview___image{
+  max-height: 45vh;
+}
+
+.fighter-preview___name{
+  margin: 0 0 10px 0;
+  color: white;
+}
+
+.fighter-preview___text{
+  margin: 0;
+}
+
+.fighter-preview___info{
+  margin: 0;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+}
